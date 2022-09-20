@@ -1,5 +1,7 @@
 👋Oi, eu sou @brunorm1
+
 👀 Este é o espaço onde a imaginação e a criatividade se transformam em código.
+
 🌱Atualmente estou aprendendo HTML, CSS, JavaScript e GIT...
 
 <!---
